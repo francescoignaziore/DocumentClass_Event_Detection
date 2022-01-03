@@ -2,7 +2,7 @@
 
 ## Shared tasks on Socio-political and Crisis Events Detection
 
-
+The workshop publication related to this work can be found here: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=apWqdokAAAAJ&alert_preview_top_rm=2&citation_for_view=apWqdokAAAAJ:d1gkVwhDpl0C
 
 Information and data related to the Socio-political and Crisis Events Detection shared task at [CASE](https://emw.ku.edu.tr/case-2021/) @ [ACL-IJCNLP 2021](https://2021.aclweb.org/) workshop. The detailed description of the task can be found in this [file](https://github.com/emerging-welfare/case-2021-shared-task/blob/main/20210314-CASE-2021-ProtestNews-Task-description.pdf). The tasks are 
 
